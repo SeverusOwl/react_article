@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,aAGE,YAAa,CACb,sBAAuB,CACvB,kBAAmB,CACpB,IAGC,SAAU,CACX,MAGC,UAAW,CACZ,GAGC,WAAY","file":"main.0df2eb6c.chunk.css","sourcesContent":[".h1,\n.span,\n.p {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.h1 {\n  color: red;\n}\n\n.span {\n  color: blue;\n}\n\n.p {\n  color: green;\n}\n"]}
